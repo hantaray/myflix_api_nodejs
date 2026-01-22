@@ -12,6 +12,8 @@ const express = require('express'),
     { check, validationResult } = require('express-validator'),
     Movies = Models.Movie,
     Users = Models.User;
+    dotenv = require('dotenv');
+    dotenv.config();
 
 // ===================
 // DATABASE CONNECTION
