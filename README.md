@@ -28,7 +28,7 @@ A movie database API built using Express, MongoDB, and Mongoose.
 
 ### Welcome
 
-- `GET /` - Welcome to HOT POTATOES.
+- `GET /` - Welcome to MyFlix API
 
 ### Movies
 
